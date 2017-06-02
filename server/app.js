@@ -26,7 +26,7 @@ const strains = [{
 }];
 
 
-app.get('/', (req, res) => {
+app.get('/strains', (req, res) => {
 	res.json(strains);
 });
 
