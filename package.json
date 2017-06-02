@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Will Carpenter <willcarpenteriii@gmail.com> (http://sirwilliamthethird.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3"
+  }
 }
