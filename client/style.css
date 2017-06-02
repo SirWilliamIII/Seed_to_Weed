@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    margin: 0px;
+    background-image: url("./../images/weedbg.jpg");    
+}
+
+.navbar-default {
+  background: rgba(0,0,0,0.4);
+  border: none;
+  margin-bottom: 0px;
+}
+
+.white-bg{
+    background-color:white;
+}
+
+.navbar-brand{
+  color: white !important;
+  font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+    background-image: url("./../images/weedpic1.jpg");
+    color: white;
+    text-shadow: black 0.3em 0.3em 1em;
+}
+
+.container {
+     box-shadow: 10px 10px 30px #000000;
+}
